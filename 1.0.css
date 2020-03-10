@@ -1,4 +1,4 @@
 	h1 {color:White;} h1 {background-color:Black;} h1 {text-align: center;}
-	p,ul {color:White;} p,ul {background-color: rgba(0,0,0,0.8);} p {font-size: 25px} p {margin-left: 20px}
-	ul {font-size: 20px} ul {list-style: none;}
+	p {color:White;} p {background-color: rgba(0,0,0,0.8);} p {font-size: 25px} p {margin-left: 20px}
+	ul {font-size: 20px} ul {list-style: none;} ul {color:White;} ,ul {background-color: rgba(0,0,0,0.8);}
  	body {background-image: url('1.jpg'); background-attachment: fixed;background-size: cover;: } 
