@@ -1,4 +1,18 @@
-	h1 {color:White;} h1 {background-color:Black;} h1 {text-align: center;}
+		h1 
+{
+	color:White;
+	background-color:Black;
+	text-align: center;
+}
 	p {color:White;} p {background-color: rgba(0,0,0,0.8);} p {font-size: 25px} 
 	ul{font-size: 20px} ul{list-style: none;} ul{color:White;} ul{background-color:rgba(0,0,0,0.8);}
  	body {background-image: url('1.jpg'); background-attachment: fixed;background-size: cover;:} 
+img
+{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+} 
